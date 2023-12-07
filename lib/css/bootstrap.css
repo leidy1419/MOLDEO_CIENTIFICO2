@@ -44,7 +44,7 @@ video{
 
   
   width: 1080;
-  height: 1280;
+  height: 1080;
   margin-left: auto;
   margin-right: auto;
 
@@ -67,9 +67,10 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #27b2c7;
   text-align: left;
-  background-color: #fff;
+  background-color: #bebbbbbb;
+  margin: 80px;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -85,6 +86,7 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+  color: #0b2e13;
 }
 
 p {
@@ -1686,7 +1688,7 @@ pre code {
 }
 
 .table tbody + tbody {
-  border-top: 2px solid #dee2e6;
+  border-top: 2px solid #5aa8b3;
 }
 
 .table-sm th,
