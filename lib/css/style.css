@@ -74,3 +74,35 @@ body{
   display:block;
   margin:auto;
 }
+.logo{
+  width: 250px;
+  height: 250px;
+}
+#sostenimiento{
+  font-family: Arial, Helvetica, sans-serif;/*la letra titulo*/
+ background-image: url("../../imagenes/MOLDEO_CIENTIFICO/tapiz.jpg");
+ color: #151516;
+ background-size: cover;
+}
+#masa{
+  font-family: Arial, Helvetica, sans-serif;/*la letra titulo*/
+  background-image: url("../../imagenes/MOLDEO_CIENTIFICO/tapiz.jpg");
+  color: #151516;
+  background-size: cover;
+}
+#husillo{
+  font-family: Arial, Helvetica, sans-serif;/*la letra titulo*/
+ background-image: url("../../imagenes/MOLDEO_CIENTIFICO/tapiz.jpg");
+ color: #151516;
+ background-size: cover;
+
+}
+#enfriamiento{
+  font-family: Arial, Helvetica, sans-serif;/*la letra titulo*/
+  background-image: url("../../imagenes/MOLDEO_CIENTIFICO/tapiz.jpg");
+  color: #151516;
+  background-size: cover;
+}
+
+
+
