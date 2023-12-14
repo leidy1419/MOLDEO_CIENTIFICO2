@@ -5,7 +5,7 @@ height:60px;
 bottom:40px;
 right:40px;
 background-color:#25d366;
-color:#FFF;
+color:#879ea8;
 border-radius:50px;
 text-align:center;
 font-size:30px;
@@ -57,6 +57,9 @@ body{
  background-image: url("../../imagenes/MOLDEO_CIENTIFICO/tapiz3.jpg");
   color: #333;
 }
+
+
+
 #secado{
   font-family: Arial, Helvetica, sans-serif;/*la letra titulo*/
   background-image: url("../../imagenes/MOLDEO_CIENTIFICO/tapiz.jpg");
